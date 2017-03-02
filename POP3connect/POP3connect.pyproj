@@ -3,15 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>5f2eda19-24bc-48e7-a6fe-541d20d5c74c</ProjectGuid>
+    <ProjectGuid>430ee880-f130-4776-b4e5-78e4dacbe724</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Buffer_Overflow.py</StartupFile>
+    <StartupFile>POP3connect.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Buffer Overflow</Name>
-    <RootNamespace>Buffer Overflow</RootNamespace>
+    <Name>POP3connect</Name>
+    <RootNamespace>POP3connect</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Buffer_Overflow.py" />
+    <Compile Include="POP3connect.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

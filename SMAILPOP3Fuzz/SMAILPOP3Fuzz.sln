@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Buffer Overflow", "Buffer Overflow\Buffer Overflow.pyproj", "{5F2EDA19-24BC-48E7-A6FE-541D20D5C74C}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SMAILPOP3Fuzz", "SMAILPOP3Fuzz.pyproj", "{C278FE01-3C00-4F40-AAE9-0AAC83C759E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,8 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5F2EDA19-24BC-48E7-A6FE-541D20D5C74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F2EDA19-24BC-48E7-A6FE-541D20D5C74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C278FE01-3C00-4F40-AAE9-0AAC83C759E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C278FE01-3C00-4F40-AAE9-0AAC83C759E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
